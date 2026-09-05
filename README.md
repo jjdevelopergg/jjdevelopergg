@@ -1,117 +1,95 @@
 <h1 align="center">João Pedro</h1>
 
 <p align="center">
-  <b>Full-Stack Developer</b>
+  Full-Stack Developer · Software Engineering
 </p>
 
 <p align="center">
-  Criando softwares modernos, escaláveis e cuidadosamente projetados.
+  <a href="#português">Português</a>
+  &nbsp;·&nbsp;
+  <a href="#english">English</a>
 </p>
-
-<br>
 
 <p align="center">
   <a href="https://jjdev.dev">Website</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/jjlabs-ui?tab=repositories">Projetos</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/jjlabs-ui?tab=repositories">Projects</a>
 </p>
 
 <br>
 
-## Sobre
+---
 
-Sou desenvolvedor Full-Stack focado na criação de aplicações modernas,
-sistemas backend e produtos digitais.
+<a id="português"></a>
 
-Valorizo arquitetura limpa, performance, escalabilidade e a construção
-de softwares simples de usar, eficientes e fáceis de manter.
+## Português
 
-Estou sempre explorando novas tecnologias e buscando evoluir na
-engenharia e arquitetura de software.
+Desenvolvedor Full-Stack focado na criação de aplicações modernas,
+sistemas eficientes e produtos digitais bem estruturados.
 
-<br>
+Busco desenvolver soluções com atenção à arquitetura, performance,
+escalabilidade e qualidade de código.
 
-## Stack
+### Tecnologias
 
-**Linguagens**
-
+**Linguagens**  
 `TypeScript` `JavaScript` `Python` `Java` `C/C++` `Lua` `PHP`
 
-**Frontend**
-
+**Frontend**  
 `React` `Next.js` `Tailwind CSS`
 
-**Backend**
-
+**Backend**  
 `Node.js` `Express` `FastAPI` `Flask`
 
-**Banco de Dados**
-
+**Dados**  
 `PostgreSQL` `MySQL` `MongoDB` `Redis` `Firebase`
 
-**Infraestrutura & Ferramentas**
-
+**Infraestrutura**  
 `Docker` `AWS` `Linux` `Git`
 
-<br>
+### Interesses
 
-## Projetos em Destaque
-
-<table>
-<tr>
-<td width="50%">
-
-### Portfolio
-
-Portfólio pessoal desenvolvido para apresentar
-meus projetos e meu trabalho como desenvolvedor.
-
-`TypeScript` · `Web`
-
-</td>
-
-<td width="50%">
-
-### Weblinks
-
-Uma plataforma minimalista criada para centralizar
-meus projetos e minha presença na web.
-
-`TypeScript` · `Frontend`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### FiveM Systems
-
-Desenvolvimento de sistemas e recursos para FiveM,
-com foco em performance, organização e arquitetura.
-
-`Lua` · `JavaScript` · `MySQL`
-
-</td>
-
-<td width="50%">
-
-### Em breve.
-
-Novos projetos, ideias e experiências
-com tecnologias modernas.
-
-`Em desenvolvimento`
-
-</td>
-</tr>
-</table>
+`Software Engineering` · `Backend` · `System Design` · `Web Development`
 
 <br>
 
-## Atualmente
+---
 
-```txt
-Desenvolvendo  → Aplicações e sistemas Full-Stack
-Estudando      → Arquitetura de software & System Design
-Explorando     → Novas tecnologias e ideias de produtos
+<a id="english"></a>
+
+## English
+
+Full-Stack Developer focused on building modern applications,
+efficient systems and well-structured digital products.
+
+I build solutions with a strong focus on architecture, performance,
+scalability and code quality.
+
+### Technologies
+
+**Languages**  
+`TypeScript` `JavaScript` `Python` `Java` `C/C++` `Lua` `PHP`
+
+**Frontend**  
+`React` `Next.js` `Tailwind CSS`
+
+**Backend**  
+`Node.js` `Express` `FastAPI` `Flask`
+
+**Data**  
+`PostgreSQL` `MySQL` `MongoDB` `Redis` `Firebase`
+
+**Infrastructure**  
+`Docker` `AWS` `Linux` `Git`
+
+### Interests
+
+`Software Engineering` · `Backend` · `System Design` · `Web Development`
+
+<br>
+
+---
+
+<p align="center">
+  <sub>João Pedro · Full-Stack Developer</sub>
+</p>
