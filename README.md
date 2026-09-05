@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building modern, scalable and thoughtfully designed software.
+  Criando softwares modernos, escaláveis e cuidadosamente projetados.
 </p>
 
 <br>
@@ -13,27 +13,27 @@
 <p align="center">
   <a href="https://jjdev.dev">Website</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/jjlabs-ui?tab=repositories">Projects</a>
+  <a href="https://github.com/jjlabs-ui?tab=repositories">Projetos</a>
 </p>
 
 <br>
 
-## About
+## Sobre
 
-I'm a Full-Stack Developer focused on building modern applications,
-backend systems and digital products.
+Sou desenvolvedor Full-Stack focado na criação de aplicações modernas,
+sistemas backend e produtos digitais.
 
-I care about clean architecture, performance, scalability and creating
-software that is simple to use and easy to maintain.
+Valorizo arquitetura limpa, performance, escalabilidade e a construção
+de softwares simples de usar, eficientes e fáceis de manter.
 
-Currently exploring better ways to build products across the web,
-backend infrastructure and software engineering.
+Estou sempre explorando novas tecnologias e buscando evoluir na
+engenharia e arquitetura de software.
 
 <br>
 
 ## Stack
 
-**Languages**
+**Linguagens**
 
 `TypeScript` `JavaScript` `Python` `Java` `C/C++` `Lua` `PHP`
 
@@ -45,17 +45,17 @@ backend infrastructure and software engineering.
 
 `Node.js` `Express` `FastAPI` `Flask`
 
-**Data**
+**Banco de Dados**
 
 `PostgreSQL` `MySQL` `MongoDB` `Redis` `Firebase`
 
-**Infrastructure**
+**Infraestrutura & Ferramentas**
 
 `Docker` `AWS` `Linux` `Git`
 
 <br>
 
-## Selected Work
+## Projetos em Destaque
 
 <table>
 <tr>
@@ -63,8 +63,8 @@ backend infrastructure and software engineering.
 
 ### Portfolio
 
-Personal portfolio built to showcase my work,
-projects and experience as a developer.
+Portfólio pessoal desenvolvido para apresentar
+meus projetos e meu trabalho como desenvolvedor.
 
 `TypeScript` · `Web`
 
@@ -74,8 +74,8 @@ projects and experience as a developer.
 
 ### Weblinks
 
-A minimal platform designed to centralize
-my projects and presence across the web.
+Uma plataforma minimalista criada para centralizar
+meus projetos e minha presença na web.
 
 `TypeScript` · `Frontend`
 
@@ -87,8 +87,8 @@ my projects and presence across the web.
 
 ### FiveM Systems
 
-Systems and resources built for FiveM servers,
-focused on performance and architecture.
+Desenvolvimento de sistemas e recursos para FiveM,
+com foco em performance, organização e arquitetura.
 
 `Lua` · `JavaScript` · `MySQL`
 
@@ -96,12 +96,12 @@ focused on performance and architecture.
 
 <td width="50%">
 
-### More coming soon.
+### Em breve.
 
-Building new ideas and experimenting
-with modern technologies.
+Novos projetos, ideias e experiências
+com tecnologias modernas.
 
-`In Development`
+`Em desenvolvimento`
 
 </td>
 </tr>
@@ -109,9 +109,9 @@ with modern technologies.
 
 <br>
 
-## Currently
+## Atualmente
 
 ```txt
-Building    → Full-stack applications & systems
-Learning    → Software architecture & system design
-Exploring   → New technologies and product ideas
+Desenvolvendo  → Aplicações e sistemas Full-Stack
+Estudando      → Arquitetura de software & System Design
+Explorando     → Novas tecnologias e ideias de produtos
